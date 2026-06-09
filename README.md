@@ -34,7 +34,7 @@ C#과 ASP.NET Core를 사용하여 Issue Tracker REST API를 구현했습니다.
 
 자세한 실행 방법과 API 예시는 아래 파일을 참고하면 됩니다.
 
-* `task1-issue-tracker-api/README.md`
+* [Task1 이슈 트래커](task1-issue-tracker-api/README.md)
 
 ### 2-2. Task 2 - Buggy User Management API
 
@@ -56,11 +56,11 @@ C#과 ASP.NET Core를 사용하여 Issue Tracker REST API를 구현했습니다.
 
 자세한 실행 방법과 API 예시는 아래 파일을 참고하면 됩니다.
 
-* `task2-buggy-user-api/README.md`
+* [Task2-유저api 버그 수정](task2-buggy-user-api/README.md)
 
 수정한 문제와 해결 내용은 아래 보고서에 정리했습니다.
 
-* `task2-buggy-user-api/FIX_REPORT.md`
+* [Task2-유저api 버그 수정 리포트](task2-buggy-user-api/FIX_REPORT.md)
 
 ## 3. 실행 환경
 
