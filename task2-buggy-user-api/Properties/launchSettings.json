@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BuggyUserApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60272;http://localhost:60273"
+    }
+  }
+}

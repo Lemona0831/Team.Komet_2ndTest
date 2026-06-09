@@ -1,0 +1,6 @@
+namespace BuggyUserApi.DTOs;
+
+public class RoleChangeRequest
+{
+    public string Role { get; set; }
+}
